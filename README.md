@@ -1,13 +1,21 @@
-## 2nd Year Computer Science and Math student @ Drexel University
+### 2nd year · CS + Math · Drexel University
 
-### https://www.kristineyoo.com/
-### Interested in building things and solving hard problems
-### Languages: Python, Java, Typsecript, Bash, Racket
+# hi, i'm kristine
 
+[kristineyoo.com](https://www.kristineyoo.com)
 
-### What I'm working on: 
-#### - BITB prediction 
-#### - Redline
+---
+
+> interested in building things and solving hard problems.
+
+---
+
+**languages**
+`Python` `Java` `TypeScript` `Bash` `Racket`
+
+**currently building**
+- BITB prediction
+- Redline
 
 
 
