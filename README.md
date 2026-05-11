@@ -14,7 +14,7 @@
 
 **current projects**
 - BITB prediction
-- Redlin
+- Redline
 - The Triange: Independant Newspaper of Drexel Univeristy, Frontend Team
 
 
