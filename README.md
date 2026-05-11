@@ -12,7 +12,7 @@
 **languages**
 `Python` `Java` `TypeScript` `Bash` `Racket`
 
-**currently building**
+**current projects**
 - BITB prediction
 - Redline
 
