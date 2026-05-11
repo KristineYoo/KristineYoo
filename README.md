@@ -17,6 +17,15 @@
 - Redline
 
 
+**past projects**
+- OpenDoor (2026): PhillyCodeFest Project, 
+- Personal Website (2026):
+- The Triange: Independant Newspaper of Drexel Univeristy (2026):
+- FitFit (2025): 20 week project in a team of 4 creating
+- GlobiSearch (2025): Philly CodeFest Project, 
+  
+
+
 
 <!--
 **KristineYoo/KristineYoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
