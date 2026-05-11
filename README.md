@@ -1,8 +1,8 @@
 ## 2nd Year Computer Science and Math student @ Drexel University
 
-# https://www.kristineyoo.com/
+### https://www.kristineyoo.com/
 
-# Interested in  
+### Interested in  
 <!--
 **KristineYoo/KristineYoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
