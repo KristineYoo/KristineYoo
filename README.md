@@ -14,15 +14,15 @@
 
 **current projects**
 - BITB prediction
-- Redline
+- Redlin
+- The Triange: Independant Newspaper of Drexel Univeristy, Frontend Team
 
 
 **past projects**
-- OpenDoor (2026): PhillyCodeFest Project, 
-- Personal Website (2026):
-- The Triange: Independant Newspaper of Drexel Univeristy (2026):
-- FitFit (2025): 20 week project in a team of 4 creating
-- GlobiSearch (2025): Philly CodeFest Project, 
+- OpenDoor (2026): PhillyCodeFest Project 
+- Personal Website (2026) 
+- FitFit (2025): 20 week project in a team of 4 
+- GlobiSearch (2025): Philly CodeFest Project
   
 
 
