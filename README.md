@@ -16,6 +16,7 @@
 - Redline (April 2026 - present)
   * RedLine is a web app that analyzes student quiz submissions to automatically identify error patterns and surface insights on which concepts a class is struggling with most
   * Gathered information and talked to real K-12 teachers about the problems they face, what tools they have access too, and what features/ functionality is missing in said tools
+  * Currently working on a way to get quiz data uploaded and read
  
 - BITB prediction (Nov 2025, March 2026 - present)
   * Predicts the daily UP/DOWN price direction of BITB, a Bitcoin ETF, using 12 engineered features including RSI, rolling volatility, and BTC-correlated signals
