@@ -28,7 +28,7 @@
 **past projects**
 - OpenDoor (2026): PhillyCodeFest Project . [opendoor.today](https://opendoor.today)
     
-- Personal Website (2026)
+- Personal Website (2026): Online resume . [kristineyoo.com](https://www.kristineyoo.com)
   
 - FitFit (2025): 20 week project in a team of 4
     
