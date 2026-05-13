@@ -23,7 +23,8 @@
   * Currently working on AWS deployment pipeline using SageMaker, Lambda, EventBridge, and S3
   * Planning on creating a simple frontend
     
-- The Triange: Independant Newspaper of Drexel Univeristy, Frontend Team
+- WordPress: CMS
+   * The Triange: Independant Newspaper of Drexel Univeristy, Frontend Team
 
 
 **past projects**
