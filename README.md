@@ -5,7 +5,7 @@
 
 ---
 
-> interested in building software and solving hard problems.
+> interested in building software and solving problems people face
 
 ---
 
