@@ -15,13 +15,12 @@
 **current projects**
 - Redline (April 2026 - present)
   * RedLine is a web app that analyzes student quiz submissions to automatically identify error patterns and surface insights on which concepts a class is struggling with most
-  * Designed to reduce teacher workload and enable more targeted, data-driven instruction tailored to each class's specific gaps
   * Gathered information and talked to real K-12 teachers about the problems they face, what tools they have access too, and what features/ functionality is missing in said tools
  
 - BITB prediction (Nov 2025, March 2026 - present)
   * Predicts the daily UP/DOWN price direction of BITB, a Bitcoin ETF, using 12 engineered features including RSI, rolling volatility, and BTC-correlated signals
   * Currently working on AWS deployment pipeline using SageMaker, Lambda, EventBridge, and S3
-  * Will integrate with a simple front end in the future
+  * Planning on creating a simple frontend
     
 - The Triange: Independant Newspaper of Drexel Univeristy, Frontend Team
 
