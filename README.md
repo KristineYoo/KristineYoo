@@ -14,13 +14,13 @@
 
 **current projects**
 - Redline (April 2026 - present)
-  * RedLine is a web app that analyzes student quiz submissions to automatically identify error patterns and surface insights on which concepts a class is struggling with most
-  * Gathered information and talked to real K-12 teachers about the problems they face, what tools they have access too, and what features/ functionality is missing in said tools
+  * RedLine is a web app that analyzes student quiz submissions to automatically identify error patterns on which concepts a class is struggling with most
+  * Talked to real K-12 teachers about the problems they face
   * Currently working on a way to get quiz data uploaded and read
  
 - BITB prediction (Nov 2025, March 2026 - present)
-  * Predicts the daily UP/DOWN price direction of BITB, a Bitcoin ETF, using 12 engineered features including RSI, rolling volatility, and BTC-correlated signals
-  * Currently working on AWS deployment pipeline using SageMaker, Lambda, EventBridge, and S3
+  * Predicts the daily UP/DOWN price direction of BITB, a Bitcoin ETF
+  * Currently working on AWS deployment pipeline 
   * Planning on creating a simple frontend
     
 - Triangle: CMS (Nov 2025 - present)
