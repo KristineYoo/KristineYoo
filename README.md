@@ -24,7 +24,7 @@
   * Planning on creating a simple frontend
     
 - Triangle: CMS (Nov 2025 - present)
-   * The Triange: Independant Newspaper of Drexel Univeristy, Frontend Team
+   * The Triange: Independant Newspaper of Drexel University, Frontend Team
 
 
 **past projects**
