@@ -23,7 +23,7 @@
 
 
 **past projects**
-- KristinesCloset (2026): my personal digital wardrobe [kristines-closet.vercel.app](https://kristines-closet.vercel.app)
+- KristinesCloset (2026): my personal digital wardrobe [kristinescloset.dev](https://kristinescloset.dev)
 - OpenDoor (2026): PhillyCodeFest Project . [opendoor.today](https://opendoor.today)
   
 - BITB prediction: Predicts the daily UP/DOWN price direction of BITB, a Bitcoin ETF
