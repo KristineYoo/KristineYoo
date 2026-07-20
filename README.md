@@ -1,7 +1,6 @@
 ### 2nd year · CS + Math · Drexel University
 
 
-[kristineyoo.com](https://www.kristineyoo.com)
 
 ---
 
