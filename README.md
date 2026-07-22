@@ -4,7 +4,8 @@
 
 ---
 
-> interested in building software 
+> interested in building software
+> C, Java, Python
 
 ---
 
